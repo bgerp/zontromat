@@ -3,7 +3,7 @@
 #sudo apt-get update
 #sudo apt-get -y upgrade
 
-sudo apt-get install -y php-cli php-sqlite
+sudo apt-get install -y php-cli php-sqlite3
 
 crontab -l > cron.res
 echo "@reboot php -S 0.0.0.0:8181 -t ~/zontromat/webroot 2>&1 &" > cron.res
