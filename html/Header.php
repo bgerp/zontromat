@@ -6,5 +6,7 @@
 <title>Zontromat</title>
 </head>
 <h1 style='border-bottom:solid 1px blue;'>Zontromat v0.01</h1>
-<a href='/?Ctr=ztm_Update'>Обновяване</a>
+<div>
+<a href='/?Ctr=ztm_Update'>Update</a> | <a href='/?Ctr=ztm_Setup'>Setup</a> | <a href='/?Ctr=ztm_Config'>Config</a> | <a href='/?Ctr=ztm_Cards'>Cards</a>
+</div>
 <body>
